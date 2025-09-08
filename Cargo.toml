@@ -1,0 +1,3 @@
+[workspace]
+members = ["boticary", "safe_macro"]
+resolver = "3"
