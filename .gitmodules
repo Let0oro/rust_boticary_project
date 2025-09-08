@@ -1,0 +1,3 @@
+[submodule "boticary"]
+	path = boticary
+	url = https://github.com/Let0oro/rust_boticary_sub.git
